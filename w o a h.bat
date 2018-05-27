@@ -1,4 +1,50 @@
 @echo off
-start
-echo wow.
-we
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
+timeout 6 /nobreak
+start intro.mp4
